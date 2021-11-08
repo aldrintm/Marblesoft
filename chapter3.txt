@@ -1,1 +1,3 @@
 This is the chapter 3 text editing work that we did for chapter 3 to satisfy that we actually did work :)
+
+This is the update statement for the git work we need to differentiate later on.
